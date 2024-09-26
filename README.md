@@ -1,4 +1,5 @@
-# ISD-22-23
+# ISD 2022 - 2023
+Introduction à la science des données
 | Labos | Notes |
 | ---- | ---- |
 | TP1 & TP2 | 5.6 |
